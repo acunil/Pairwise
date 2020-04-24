@@ -20,3 +20,5 @@ Below we'll take their corresponding indices and add them.
 7 + 13 = 20 → Indices 0 + 3 = **3**  
 9 + 11 = 20 → Indices 1 + 2 = **3**  
 3 + 3 = 6 → Return **6**
+
+Go!
