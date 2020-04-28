@@ -21,4 +21,3 @@ Below we'll take their corresponding indices and add them.
 9 + 11 = 20 → Indices 1 + 2 = **3**  
 3 + 3 = 6 → Return **6**
 
-Go!
